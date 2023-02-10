@@ -1,3 +1,5 @@
 Finding the Story
 =================
 In Shaun Tan's hefty collection, *Creature*, he describes how it is not uncommon for an artist to feel an urge to create, yet feel unsure what they have to express. I found this comforting, having grappled the same in creative writing. However, when we look to the guidance available to aspiring writers, the critical starting point of "what to write?" is often an elephant in the room.
+
+Kate Grenville approaches the topic in *The Writing Book*, encouraging the writer to experiment with various creative "games", and then seek connections. This is the only method I have yet found that works, and seems to mirror the late Sir Terry Pratchett's approach, of using the first draft as a means of discovery, then meticulously editing and re-drafting.
